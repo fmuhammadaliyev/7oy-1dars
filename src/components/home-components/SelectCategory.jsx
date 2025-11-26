@@ -30,7 +30,7 @@ const SelectCategory = ({
   return (
     <section className="category">
       <div className="mycon flex flex-col gap-4 py-8">
-        <h5 className="text-center text-3xl">Select a vehicle group</h5>
+        <h5 className="text-center text-6xl">Select a vehicle group</h5>
         <div className="w-full md:w-[80%] mx-auto flex flex-wrap items-center justify-center gap-3">
           {categories.map((category, idx) => (
             <button
