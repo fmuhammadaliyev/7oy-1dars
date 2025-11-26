@@ -79,7 +79,7 @@ const CarDetail = () => {
               <p className="text-5xl font-extrabold text-blue-600">
                 ${car.pricePerDay}
               </p>
-              <p className="text-gray-500 text-2xl -mt-2">per day</p>
+              <p className="text-gray-500 text-2xl -mt-2">Per Dey</p>
             </div>
 
             <div className="rounded-3xl overflow-hidden relative border border-gray-100 shadow-md group">
