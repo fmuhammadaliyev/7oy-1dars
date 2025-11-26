@@ -86,7 +86,7 @@ const CarDetail = () => {
               <img
                 src={car.image}
                 alt={car.name}
-                className="w-full h-72 object-cover transition-all duration-300 group-hover:brightness-75"
+                className="w-full h-auto max-h-[500px] object-cover transition-all duration-300 group-hover:brightness-75"
               />
             </div>
 
